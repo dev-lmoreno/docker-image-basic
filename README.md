@@ -1,0 +1,1 @@
+# Simple project with one docker image node
